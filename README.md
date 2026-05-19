@@ -1,2 +1,22 @@
 # Real-Estate-Market-Trends-Dashboard
-Interactive Power BI dashboard designed to analyze real estate market trends across major cities. Features include property price analysis, rental yield comparison, demand vs supply insights, and city-wise market hotspots using dynamic visualizations, maps, and data-driven analytics for better real estate decision-making and market understanding
+Project Overview
+This project focuses on analyzing financial health through interactive dashboard visualizations. It helps track income, expenses, savings, and overall financial performance using meaningful insights and graphical reports.
+Files Included
+Financial Health Dashboard.jpeg
+Financial Health Dataset.xlsx
+
+Tools Used
+Microsoft Excel
+Power BI
+GitHub
+
+Features
+Income Analysis
+Expense Tracking
+Financial KPI Monitoring
+Savings & Budget Insights
+Interactive Data Visualization
+Monthly Financial Performance Analysis
+
+Purpose
+The dashboard helps users understand spending patterns, monitor financial stability, and make better financial decisions using data-driven analysis.
