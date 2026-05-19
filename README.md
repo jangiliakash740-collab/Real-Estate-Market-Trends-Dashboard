@@ -21,7 +21,7 @@ This project analyzes real estate market trends using interactive dashboard visu
 ## Purpose
 The dashboard helps users understand market performance, compare city-wise real estate trends, and make data-driven investment and business decisions through visual analytics.
 
-![IMAGE]()
+![IMAGE](WhatsApp Image 2026-05-19 at 10.16.39 PM (1).jpeg)
 
 
 
