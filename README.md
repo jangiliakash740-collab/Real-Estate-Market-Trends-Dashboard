@@ -1,16 +1,16 @@
 # Real-Estate-Market-Trends-Dashboard
-Project Overview
+#Project Overview
 This project focuses on analyzing financial health through interactive dashboard visualizations. It helps track income, expenses, savings, and overall financial performance using meaningful insights and graphical reports.
-Files Included
+#Files Included
 Financial Health Dashboard.jpeg
 Financial Health Dataset.xlsx
 
-Tools Used
+#Tools Used
 Microsoft Excel
 Power BI
 GitHub
 
-Features
+#Features
 Income Analysis
 Expense Tracking
 Financial KPI Monitoring
@@ -18,5 +18,23 @@ Savings & Budget Insights
 Interactive Data Visualization
 Monthly Financial Performance Analysis
 
-Purpose
+#Purpose
 The dashboard helps users understand spending patterns, monitor financial stability, and make better financial decisions using data-driven analysis.
+![image](WhatsApp Image 2026-05-19 at 10.16.39 PM (1).jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
