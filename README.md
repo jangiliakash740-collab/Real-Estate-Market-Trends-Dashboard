@@ -20,6 +20,7 @@ Monthly Financial Performance Analysis
 
 #Purpose
 The dashboard helps users understand spending patterns, monitor financial stability, and make better financial decisions using data-driven analysis.
+
 ![image](WhatsApp Image 2026-05-19 at 10.16.39 PM (1).jpeg)
 
 
